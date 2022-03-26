@@ -4,7 +4,7 @@ const Telegram = require("telegram-node-bot");
 const TelegramBaseController = Telegram.TelegramBaseController;
 const TextCommand = Telegram.TextCommand;
 const chatbot = new Telegram.Telegram(
-  "5106220342:AAEv3vunA_Yand2JNt_0pyop7tykzHpfTJw"
+  ""
 );
 
 class EventsController extends TelegramBaseController {
